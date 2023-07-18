@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39bf0c5f-e551-4ba2-8eaf-cb6a6170b42f" name="Changes" comment="set up the project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="39bf0c5f-e551-4ba2-8eaf-cb6a6170b42f" name="Changes" comment="set up input tab from excel" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,11 +216,19 @@
       <option name="project" value="LOCAL" />
       <updated>1689701211541</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="set up input tab from excel">
+      <created>1689707094272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689707094272</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set up the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="set up the project" />
+    <MESSAGE value="set up input tab from excel" />
+    <option name="LAST_COMMIT_MESSAGE" value="set up input tab from excel" />
   </component>
 </project>
